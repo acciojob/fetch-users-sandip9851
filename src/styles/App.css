@@ -1,1 +1,32 @@
+.main{
+  width: 70vw;
+  height: 70vh;
+  
+  
+  margin: auto ;
+}
+.head{
+  display: flex;
+  justify-content: space-between;
+}
+.head h1{
+  margin: 20px;
+}
+.head .btn{
+  margin: 20px;
+  background-color: #117488;
+  color: white;
+  border: none;
+}
 
+table{
+  width: 100%;
+  margin: 10px;
+}
+
+thead{
+  background-color: black;
+  color: white;
+  font-size: 1.5rem;
+  
+}

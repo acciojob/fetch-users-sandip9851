@@ -46,7 +46,7 @@ const App = () => {
             ))
           ) : (
             <tr>
-              <td colSpan="4">No data available</td>
+              <td colSpan="4">No data found</td>
             </tr>
           )}
         </tbody>
